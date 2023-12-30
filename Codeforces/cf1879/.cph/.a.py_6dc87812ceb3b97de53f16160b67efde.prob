@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/workspaces/Codeforces-tbdsh/cf1879/a.py","tests":[{"id":1695570591582,"input":"3\n4\n7 4\n9 3\n4 6\n2 2\n2\n4 6\n100 100\n2\n1337 3\n1337 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/Codeforces-tbdsh/cf1879/a.py","group":"local","local":true}
