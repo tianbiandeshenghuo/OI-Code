@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/workspace/OI-Code/CodeForces/cf2007/a.cpp","tests":[{"id":1725030228376,"input":"8\n1 3\n3 7\n10 21\n2 8\n51 60\n2 15\n10 26\n1 1000","output":"1\n1\n3\n1\n2\n3\n4\n250"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspace/OI-Code/CodeForces/cf2007/a.cpp","group":"local","local":true}
